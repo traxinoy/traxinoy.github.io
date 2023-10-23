@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /tietosuojaseloste.html
+
+# Exclude paginated URLs to prevent duplicate content indexing
+Disallow: /*?page=
+
+# Sitemap location
+Sitemap: https://www.traxin.fi/sitemap.xml

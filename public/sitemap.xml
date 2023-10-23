@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.traxin.fi/</loc>
+        <priority>1.00</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/palvelut.html</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/palvelut.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/yritys.html</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/yritys.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/referenssit.html</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/referenssit.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/ota-yhteytta.html</loc>
+        <priority>0.80</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/ota-yhteytta.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/betonikorjaustyot.html</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/betonikorjaustyot.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/perinteiset-rappaus-ja-lamporappaustyot.html</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/perinteiset-rappaus-ja-lamporappaustyot.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/sisatyot.html</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/sisatyot.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/julkisivujen-ja-vesikattojen-maalaustyot.html</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/julkisivujen-ja-vesikattojen-maalaustyot.html"/>
+    </url>
+    <url>
+        <loc>https://www.traxin.fi/vesieristystyot.html</loc>
+        <priority>0.60</priority>
+        <xhtml:link rel="alternate" hreflang="fi" href="https://www.traxin.fi/vesieristystyot.html"/>
+    </url>
+</urlset>
+
