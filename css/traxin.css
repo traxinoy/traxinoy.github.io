@@ -1460,6 +1460,11 @@ strong {
   display: flex;
 }
 
+.verkkolaskutus-wrapper {
+  text-align: center;
+  margin-top: 42px;
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 42px;
@@ -2086,6 +2091,10 @@ strong {
     width: 100%;
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .verkkolaskutus-wrapper {
+    text-align: left;
   }
 }
 
